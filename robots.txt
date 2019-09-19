@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ienguweij.conifersailing.com/sitemap.xml
